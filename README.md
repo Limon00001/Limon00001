@@ -3,21 +3,21 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Monayem Hossain Limon</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limon00001&label=Profile%20views&color=0e75b6&style=flat" alt="limon00001" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/monayem_hossain_limon/" target="_blank"><img src="https://img.shields.io/twitter/follow/monayem_hossain_limon?logo=instagram&style=for-the-badge" alt="monayem-hossain-limon" /></a> </p>
+<p align="left"> <a href="https://www.github.com/Limon00001" target="_blank"><img src="https://img.shields.io/twitter/follow/monayem_hossain_limon?logo=github&style=for-the-badge" alt="monayem-hossain-limon" /></a> </p>
 
 **About me**
 
 - ❤️ Love writing lines of code and do some fun experiments
 
-- 🔭 I’m currently working on **Node JS**
+- 🔭 I’m currently working on **Node JS** & **React JS**
 
 <!-- - 🌱 I’m currently learning **Tailwind CSS** -->
 
-- 👨‍💻 All of my projects are available at [github.com/Limon00001](github.com/Limon00001)
+- 👨‍💻 All of my projects are available at [github.com/Limon00001](https://github.com/Limon00001)
 
 - 📫 You can email me **limonhossain82@gmail.com**
 
@@ -49,5 +49,5 @@
 
 ![Monayem](https://github-readme-stats.vercel.app/api?username=limon00001&show_icons=true&theme=radical)
 
-![Monayem](https://github-readme-streak-stats.herokuapp.com/?user=limon00001&&show_icons=true&theme=radical)
+![Monayem](https://github-readme-streak-stats.herokuapp.com/?user=limon00001&show_icons=true&theme=radical)
 
