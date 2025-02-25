@@ -2,18 +2,22 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FnOTc3N2oxbzA1cmR0bWZsdzF4c2h3dGR6aWx5b3RxcmFpam94NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lHLlZbk1Y1A31TKf9x/giphy.gif">
 </div>
 
-<h1 align="center">Hi 👋, I'm Monayem Hossain Limon</h1>
+<h1 align="center">Hi <span><img width="28px" src="./assets/wave.gif" alt="wave" /></span>, I'm Monayem Hossain Limon</h1>
 <h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limon00001&label=Profile%20views&color=0e75b6&style=flat" alt="limon00001" /> </p>
 
-<p align="left"> <a href="https://www.github.com/Limon00001" target="_blank"><img src="https://img.shields.io/twitter/follow/monayem_hossain_limon?logo=github&style=for-the-badge" alt="monayem-hossain-limon" /></a> </p>
+<p align="left">
+    <a href="https://www.github.com/Limon00001" target="_blank"><img src="https://img.shields.io/twitter/follow/gitHub?logo=github&style=social" alt="monayem-hossain-limon" />
+    </a>
+    <a href="https://www.linkedin.com/in/monayem-hossain-limon/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="monayem-hossain-limon" /></a>
+</p>
 
 **About me**
 
 - ❤️ Love writing lines of code and do some fun experiments
 
-- 🔭 I’m currently working on **Node JS** & **React JS**
+- 🔭 I’m currently working on **Node JS** & **React JS** with typeScript
 
 <!-- - 🌱 I’m currently learning **Tailwind CSS** -->
 
